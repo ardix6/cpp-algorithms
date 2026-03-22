@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Tidied up project structure
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-23
+- Added basic retry logic for network requests
